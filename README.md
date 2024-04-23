@@ -6,6 +6,9 @@ Este script de Bash proporciona información útil sobre el servidor donde se ej
 ## Ejecución del Script
 Para ejecutar el script, simplemente cópialo en tu servidor y ejecútalo utilizando Bash:
 
+![Texto alternativo](https://i.imgur.com/EAWJOHE.png)
+
+
 ```bash
 ./nombre_del_script.sh
 
