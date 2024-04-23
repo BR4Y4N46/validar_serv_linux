@@ -22,8 +22,7 @@ A continuación se muestra una captura de pantalla de la salida del script:
 Ejemplo de Salida
 A continuación se muestra un ejemplo de la salida del script:
 
-
-![Texto alternativo]([URL_de_la_imagen](https://imgur.com/a/t7jFbtJ))
+([URL_de_la_imagen](https://imgur.com/a/t7jFbtJ))
 
 
 
