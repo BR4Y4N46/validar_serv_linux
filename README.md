@@ -24,9 +24,6 @@ A continuación se muestra un ejemplo de la salida del script:
 
 ![Texto alternativo](https://i.imgur.com/EAWJOHE.png)
 
-
-
-
 Requisitos
 Sistema operativo compatible con Bash.
 Servidor Apache instalado y en funcionamiento (si se utiliza la función de verificación del estado del servicio Apache).
