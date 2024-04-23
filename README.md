@@ -23,8 +23,7 @@ Ejemplo de Salida
 A continuación se muestra un ejemplo de la salida del script:
 
 
-![image](https://github.com/BR4Y4N46/validar_serv_linux/assets/61888926/0b924dad-876b-4653-b148-c3e5d293b372)
-
+![Texto alternativo]([URL_de_la_imagen](https://imgur.com/a/t7jFbtJ))
 
 
 
