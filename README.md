@@ -22,7 +22,7 @@ A continuación se muestra una captura de pantalla de la salida del script:
 Ejemplo de Salida
 A continuación se muestra un ejemplo de la salida del script:
 
-![Texto alternativo](https://i.imgur.com/ezvrpUP.png)
+![Texto alternativo](https://i.imgur.com/EAWJOHE.png)
 
 
 
