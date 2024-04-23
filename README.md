@@ -23,20 +23,8 @@ Ejemplo de Salida
 A continuación se muestra un ejemplo de la salida del script:
 
 
-+-----------------------------+
-|      Datos del Servidor     |
-+-----------------------------+
-| Dirección IP:    | 192.168.1.100
-| Sistema:         | CentOS Linux 7.9.2009
-| Hostname:        | servidor.example.com
-| Memoria RAM:     | 8.0G
-+-----------------------------+
+![image](https://github.com/BR4Y4N46/validar_serv_linux/assets/61888926/0b924dad-876b-4653-b148-c3e5d293b372)
 
-+---------------------------------------+
-|        Estado del Servicio Apache    |
-+---------------------------------------+
-| Apache:             | Activo
-+---------------------------------------+
 
 
 
