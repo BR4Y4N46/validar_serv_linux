@@ -5,7 +5,8 @@ Este script de Bash proporciona información útil sobre el servidor donde se ej
 
 ## Ejecución del Script
 Para ejecutar el script, simplemente cópialo en tu servidor y ejecútalo utilizando Bash:
-
+## Ejemplo de Salida
+A continuación se muestra un ejemplo de la salida del script:
 ![Texto alternativo](https://i.imgur.com/EAWJOHE.png)
 
 
@@ -22,10 +23,8 @@ Captura de Pantalla
 A continuación se muestra una captura de pantalla de la salida del script:
 
 
-Ejemplo de Salida
-A continuación se muestra un ejemplo de la salida del script:
 
-![Texto alternativo](https://i.imgur.com/EAWJOHE.png)
+
 
 Requisitos
 Sistema operativo compatible con Bash.
